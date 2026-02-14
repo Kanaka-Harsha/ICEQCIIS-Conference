@@ -1,6 +1,0 @@
- PAYMENT GATEWAY DETAILS:
- Bank Name : State Bank of India
- A/C No. : 62434363674 
-Account Name : KL University
- IFSC Code : SBIN0021361
- Branch : Vaddeswaram, Guntur-522 302.
